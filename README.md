@@ -5,7 +5,7 @@
 # Two challenges completed using Python scripting:
 
 
-* First:
+# First:
 
 * New repository created for this project called `python-challenge`
 
@@ -37,7 +37,7 @@ Created a Python script that analyzes the records to calculate each of the follo
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-The Financial analysis looks similar to the following:
+The Financial Analysis looks similar to the following:
 
   ```text
   Financial Analysis
