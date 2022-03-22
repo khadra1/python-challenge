@@ -40,7 +40,7 @@ index_max_loss = changes.index(min(changes))
 # print(budget_data[index_max_loss+1])
 
 # Export result to text file and print analysis in terminal
-output = f'''Financial Analysis
+output = f'''  Financial Analysis
   ----------------------------
   Total Months: {len(budget_data)}
   Total: ${net_amount}

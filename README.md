@@ -1,31 +1,29 @@
-# python-challenge
+# PYTHON-CHALLENGE
 
 # Unit 3 Homework: Python
 
-# Two challenges to complete using Python scripting:
-
-## Background
+# Two challenges completed using Python scripting:
 
 
-Before starting the assignment, be sure to do the following:
+* First:
 
 * New repository created for this project called `python-challenge`
 
 * Cloned repository to my computer.
 
-* Inside the local git repository I have create a directory for each Python challenge. With folder names corresponding to the challenges: **PyBank** and  **PyPoll**.
+* Inside the local git repository I have created a directory for each Python challenge. With folder names corresponding to the challenges: **PyBank** and  **PyPoll**.
 
 * Inside of each folder are the following:
 
-  * A new file called `main.py`. This will be the main script to run for each analysis.
+  * A new file called `main.py`. The main script to run for each analysis.
   * A `Resources` folder that contains the CSV files used. Including correct csv_path
   * An `analysis` folder that contains a text file with the results from the analysis.
 
-* Push to GitHub.
+* Pushed to GitHub.
 
 ## PyBank Challenge
 
-* Created a Python script to analyze the financial records of my company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses".
+* Created a Python script to analyze the financial records of a company. Using a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Created a Python script that analyzes the records to calculate each of the following:
 
