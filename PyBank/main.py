@@ -29,12 +29,6 @@ with open(csvpath, encoding= 'utf') as csvfile:
 
         # Average changes of profit/loss
         previous_profit_loss = int(line[1])
-# print(budget_data)
-
-# print(len(budget_data))
-# print(net_amount)
-# print(round(sum(changes)/(len(changes)),2))
-
 
 
 # Greatest increase in profit (date and amount)
